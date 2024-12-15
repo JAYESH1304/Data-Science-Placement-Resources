@@ -16,7 +16,7 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
    - [Data Science Concepts](#data-science-concepts)
    - [Mathematics for ML](#mathematics)
    - [Data structures and algorithns](#dsa)
-3. [ML Questions Practice](#questions)
+3. [ML Questions Practice](#ml_questions)
 
 ---
 
@@ -31,6 +31,7 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 - [StatQuest Statistics Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Machine Learning Cheatsheets](https://ml-cheatsheet.readthedocs.io/en/latest/)
 - [Chris Albon's Machine Learning Flashcards](https://machinelearningflashcards.com/)
+- [ML University](https://mlu-explain.github.io/)
 
 ---
 
@@ -230,12 +231,25 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 - Inferential Statistics
 - Probability Theory
 
-### <a name="dsa"></a> Data structures and Algorithms
+## Data Structures and Algorithms
 
-- Striver A to Z sheet
-- Striver SDE sheet (For revision)
-- Companywise Questions --> https://dsaquestions.vercel.app/
+### Resources
+- **Striver A to Z sheet**
+- **Striver SDE sheet** (For revision)
+- **Companywise Questions**: [Explore here](https://dsaquestions.vercel.app/)
 
+## ML Practice Questions
 
+### ML Coding Challenges
+- [Deep ML Coding Challenges](https://www.deep-ml.com/?page=1&difficulty=&category=&solved=)
+
+### ML Practice MCQs
+- [Toby ML MCQs](https://www.gettoby.com/p/shn6r85k4fzn)
+
+### ML Scenario-Based Questions
+- [Kaggle Discussion](https://www.kaggle.com/discussions/general/231361)
+
+### 1000+ DS Interview Questions Complilation
+- [DS Interview Questions](https://www.kaggle.com/discussions/questions-and-answers/239533)
 
 ---
