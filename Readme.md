@@ -15,7 +15,8 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
    - [Statistical Methods](#statistical-methods)
    - [Data Science Concepts](#data-science-concepts)
    - [Mathematics for ML](#mathematics)
-3. [Sample Interview Questions](#questions)
+   - [Data structures and algorithns](#dsa)
+3. [ML Questions Practice](#questions)
 
 ---
 
@@ -135,7 +136,7 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 #### Advanced Topics:
 - GANs for Image Generation
 - Vision Transformers (ViT)
-- Multi-Modal Models (e.g., CLIP, DALL-E)
+- Multi-Modal Models (e.g., CLIP, DALL-E) (Optional)
 
 ---
 
@@ -148,13 +149,21 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 
 #### Generative AI:
 - Large Language Models (LLMs):
-  - GPT, ChatGPT, Bard
+  - Types of LLMs and their training
+  - GPT, Llama, Mistral (Optional)
   - Fine-Tuning and Prompt Engineering
 - Retrieval-Augmented Generation (RAG):
   - Combining LLMs with Search Engines or Vector Databases
 - Vector Databases:
-  - Use Cases with Pinecone, Weaviate, Milvus
-- Advanced Generative Techniques:
+  - Use Cases with chromadb, FAISS, Pinecone
+- Fine-tuning
+  - PEFT (LoRA, QLoRA)
+  - Adapters
+  - Prompt tuning
+- Prompting techniques
+  - Zero shot ICL, Few shot ICL
+  - Chain-of-Thought prompting, Expert prompting, Decomposed prompting
+- Advanced Generative Techniques (Optional):
   - Diffusion Models
   - Text-to-Image Models (e.g., Stable Diffusion, DALL-E)
 
@@ -192,13 +201,13 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 
 #### Feature Selection:
 - Feature Importance (e.g., Permutation Importance, SHAP values)
-- Dimensionality Reduction (e.g., PCA)
+- Dimensionality Reduction (e.g., PCA, LDA)
 
-#### Time Series Analysis:
+#### Time Series Analysis (Optional):
 - Stationarity Tests (ADF Test)
 - Autoregressive Models (ARIMA, SARIMA)
 
-#### Big Data Tools:
+#### Big Data Tools (Optional):
 - Hadoop, Spark Basics
 - Data Handling with Pandas and Dask
 
@@ -220,5 +229,13 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 - Descriptive Statistics (Mean, Median, Mode, Variance)
 - Inferential Statistics
 - Probability Theory
+
+### <a name"dsa"></a> Data structures and Algorithms
+
+- Striver A to Z sheet
+- Striver SDE sheet (For revision)
+- Companywise Questions --> https://dsaquestions.vercel.app/
+
+
 
 ---
