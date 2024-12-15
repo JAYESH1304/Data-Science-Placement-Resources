@@ -222,10 +222,3 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 - Probability Theory
 
 ---
-
-## 3. <a name="questions"></a> Sample Interview Questions
-
-#### General:
-- What is Machine Learning, and how does it differ from traditional programming?
-- Explain the bias-variance trade-off
-
