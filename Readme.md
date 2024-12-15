@@ -230,7 +230,7 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 - Inferential Statistics
 - Probability Theory
 
-### <a name"dsa"></a> Data structures and Algorithms
+### <a name="dsa"></a> Data structures and Algorithms
 
 - Striver A to Z sheet
 - Striver SDE sheet (For revision)
