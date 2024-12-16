@@ -252,4 +252,12 @@ This repository serves as a comprehensive guide for preparing for Machine Learni
 ### 1000+ DS Interview Questions Complilation
 - [DS Interview Questions](https://www.kaggle.com/discussions/questions-and-answers/239533)
 
+## Guide for ML Projects
+
+### Kaggle Competitions
+- [Kaggle Competitions](https://www.kaggle.com/competitions?hostSegmentIdFilter=5)
+
+### Hands-on-projects
+- Coding assignments in the andrew ng courses.
+
 ---
