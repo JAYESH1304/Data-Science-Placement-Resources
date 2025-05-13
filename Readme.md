@@ -2,6 +2,8 @@
 
 This repository serves as a comprehensive guide for preparing for Machine Learning (ML) and Data Science interviews. It covers fundamental and advanced concepts, practical implementations, and common interview questions to help you excel in your placement process.
 
+[Link for OA Questions](https://drive.google.com/drive/folders/18ph8NeRmlrEESbssFkhdGc97pvGUP7gP)
+
 ---
 
 ## Table of Contents
