@@ -1,4 +1,4 @@
-# Machine Learning and Data Science Placement Preparation
+# Machine Learning and Data Science Resources
 
 This repository serves as a comprehensive guide for preparing for Machine Learning (ML) and Data Science interviews. It covers fundamental and advanced concepts, practical implementations, and common interview questions to help you excel in your placement process.
 
